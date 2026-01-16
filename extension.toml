@@ -1,0 +1,7 @@
+id = "popping-and-locking-theme"
+name = "Popping and Locking Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["Milad Alizadeh <git@mil.ad>"]
+description = "A dark theme with vibrant colors inspired by Gruvbox. Originally by Hedinn Eiriksson for VS Code"
+repository = "https://github.com/mil-ad/zed-popping-and-locking"
