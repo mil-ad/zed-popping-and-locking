@@ -4,9 +4,13 @@ A dark theme for [Zed](https://zed.dev) with vibrant colors inspired by Gruvbox.
 
 Originally created by [Hedinn Eiriksson](https://github.com/hedinne/popping-and-locking-vscode) for VS Code.
 
-## Screenshot
+## Screenshots
 
-![Popping and Locking](./screenshots/popping-and-locking.png)
+![Rust](./screenshots/rust.png)
+
+![Go](./screenshots/go.png)
+
+![CSS](./screenshots/css.png)
 
 ## Installation
 
